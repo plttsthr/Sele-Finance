@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.a63583ff.css",
-    "main.js": "/static/js/main.1585c530.js",
-    "static/js/787.13180852.chunk.js": "/static/js/787.13180852.chunk.js",
-    "static/media/camera.png": "/static/media/camera.4ac3169030870a574502.png",
-    "static/media/sloth.png": "/static/media/sloth.c2d9b8cb8252f2e04283.png",
-    "static/media/user.png": "/static/media/user.420cb201ff948af72b89.png",
-    "static/media/remove.png": "/static/media/remove.3f50bacec480b251e3fd.png",
-    "index.html": "/index.html",
-    "main.a63583ff.css.map": "/static/css/main.a63583ff.css.map",
-    "main.1585c530.js.map": "/static/js/main.1585c530.js.map",
-    "787.13180852.chunk.js.map": "/static/js/787.13180852.chunk.js.map"
+    "main.css": "/Sele-Finance/static/css/main.a63583ff.css",
+    "main.js": "/Sele-Finance/static/js/main.824af759.js",
+    "static/js/787.13180852.chunk.js": "/Sele-Finance/static/js/787.13180852.chunk.js",
+    "static/media/camera.png": "/Sele-Finance/static/media/camera.4ac3169030870a574502.png",
+    "static/media/sloth.png": "/Sele-Finance/static/media/sloth.c2d9b8cb8252f2e04283.png",
+    "static/media/user.png": "/Sele-Finance/static/media/user.420cb201ff948af72b89.png",
+    "static/media/remove.png": "/Sele-Finance/static/media/remove.3f50bacec480b251e3fd.png",
+    "index.html": "/Sele-Finance/index.html",
+    "main.a63583ff.css.map": "/Sele-Finance/static/css/main.a63583ff.css.map",
+    "main.824af759.js.map": "/Sele-Finance/static/js/main.824af759.js.map",
+    "787.13180852.chunk.js.map": "/Sele-Finance/static/js/787.13180852.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a63583ff.css",
-    "static/js/main.1585c530.js"
+    "static/js/main.824af759.js"
   ]
 }
